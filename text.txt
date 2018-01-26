@@ -1,0 +1,10 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is D48A-8CEB
+
+ Directory of C:\Users\ABC\Desktop\TestProject
+
+26-01-2018  07.57 AM    <DIR>          .
+26-01-2018  07.57 AM    <DIR>          ..
+26-01-2018  07.57 AM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  139,499,929,600 bytes free
